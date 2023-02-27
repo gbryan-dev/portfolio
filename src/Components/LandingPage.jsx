@@ -420,7 +420,7 @@ const LandingPage = () => {
                   &nbsp; by Bryan G
                 </span>
               </div>
-              Invest in your future.
+              Invest in your future
             </div>
           </div>
         </div>
